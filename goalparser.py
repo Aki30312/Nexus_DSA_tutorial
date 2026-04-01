@@ -12,7 +12,7 @@ class Solution:
                 result += 'o'
                 i += 2
                 
-            else:  # must be "(al)"
+            else:  
                 result += 'al'
                 i += 4
                 
